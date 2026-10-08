@@ -104,9 +104,35 @@
 > Dalam riwayat Imam Al-Qurthubi disebutkan bahwa suatu ketika lampu penerangan milik Rasulullah saw. tiba-tiba padam karena kehabisan minyak. Maka beliau spontan mengucapkan: *'Innā lillāhi wa innā ilaihi rāji'ūn'*. Aisyah r.a. bertanya: *'Wahai Rasulullah, apakah lampu padam juga termasuk musibah?'* Beliau menjawab: *'Na'am, kullu syai-in yu'dzil mu'mina fa huwa mushībah'* (Ya, segala sesuatu yang menyusahkan atau mengganggu seorang mukmin adalah musibah dan ia berhak mendapat pahala atasnya).
 > 
 > Jadi, ketika kita kehilangan pulpen, ban motor bocor saat berangkat sekolah, atau tersandung batu, sunnah hukumnya mengucapkan kalimat istirja'."*
+---
+
+### Pertanyaan 7: Kedudukan Hadis Jalur Az-Zuhri dalam Shahih Bukhari
+> **Tanya:**  
+> *"Dalam riset kalian, kalian menyebutkan Hadis riwayat Bukhari melalui jalur Imam Az-Zuhri (no. 5640). Mengapa sanad ini begitu istimewa dalam literatur hadis musibah?"*
+
+**Jawaban Presenter:**
+> *"Pertanyaan yang luar biasa kritis! Ada dua alasan utama mengapa jalur periwayatan Imam Az-Zuhri ini sangat monumental:
+> 1. **Hadis Pembuka Kitab Musibah & Penyakit (*Kitab Al-Mardha*):**  
+>    Imam Al-Bukhari dengan sengaja meletakkan hadis jalur Az-Zuhri (dari 'Urwah, dari Ummul Mukminin Aisyah r.a.) sebagai **hadis nomor satu (pembuka)** pada Kitab Penyakit. Ini membuktikan bahwa di mata Imam Bukhari, hadis ini adalah fondasi teologis terkuat yang menetapkan bahwa setiap musibah—bahkan sekadar tertusuk duri—adalah sarana kafarat penghapus dosa.
+> 2. **Kredibilitas Sanad Emas (*Ashahhul Asanid*):**  
+>    Imam Ibnu Syihab Az-Zuhri adalah tokoh tabi'in yang memimpin kodifikasi hadis resmi atas perintah Khalifah Umar bin Abdul Aziz. Rantai sanad *Az-Zuhri ➔ 'Urwah ➔ 'Aisyah* adalah jalur keluarga langsung (Urwah adalah keponakan Aisyah), sehingga keshahihannya berada di puncak derajat ilmu hadis (*muttafaq 'alaih*)."*
 
 ---
 
+### Pertanyaan 8: Tiga Cabang Sabar Menurut Buku PAI SMK Erlangga
+> **Tanya:**  
+> *"Buku PAI SMK Kelas XII Kurikulum Merdeka terbitan Erlangga membagi sabar ke dalam 3 cabang. Bagaimana penjelasannya jika dikaitkan dengan kehidupan siswa SMK?"*
+
+**Jawaban Presenter:**
+> *"Terima kasih. Buku PAI SMK Erlangga (karya Drs. H. Sadi & H. Nasikin) merujuk pada klasifikasi para ulama salaf yang membagi sabar menjadi 3 dimensi:
+> 1. **Sabar dalam Ketaatan kepada Allah:**  
+>    Menjaga konsistensi ibadah shalat 5 waktu dan kejujuran, serta dalam konteks SMK adalah disiplin menjalankan SOP bengkel/lab dan mematuhi jadwal PKL industri.
+> 2. **Sabar dalam Menjauhi Kemaksiatan:**  
+>    Menahan diri dari pergaulan bebas, tawuran, kecurangan ujian kompetensi, atau manipulasi data pekerjaan proyek.
+> 3. **Sabar dalam Menghadapi Takdir Pahit / Musibah:**  
+>    Ketabahan saat diuji dengan sakit jasmani, kecelakaan kerja, atau saat produk buatan kita gagal lolos *Quality Control*. Sabar di sini adalah pantang menyerah dan terus melakukan *troubleshooting* hingga berhasil."*
+
+---
 ## BAGIAN II: CHEATSHEET CEPAT HAFALAN & KISI-KISI UJIAN
 
 ### 1. Rumus Tajwid Cepat Q.S. Al-Baqarah: 155–156
@@ -139,13 +165,16 @@
 
 ---
 
-### 4. Empat (4) Hadis Shahih Inti & Poin Kuncinya
-| Hadis & Sanad | Matan Kunci | Poin Inti |
+### 4. Hadis-Hadis Shahih Kunci & Takhrij Sanad
+| Hadis & Sanad Kunci | Matan / Potongan Kunci | Poin Inti & Kedudukan |
 |:---|:---|:---|
-| **HR. Bukhari no. 5641 & Muslim no. 2573** *(Abu Sa'id & Abu Hurairah)* | *Hattasy-syaukati yusyakuha illa kaffarallahu biha min khathayahu* | Bahkan duri yang menusuk kaki menjadi penghapus dosa. |
-| **HR. Bukhari no. 1283 & Muslim no. 926** *(Anas bin Malik)* | *Innamash-shabru 'inda ash-shadmatil ula* | Nilai kesabaran sejati ada pada hentakan/benturan pertama. |
-| **HR. Muslim no. 918** *(Ummu Salamah)* | *Allahumma'jurni fi mushibati wa akhlif li khairan minha* | Doa mustajab saat tertimpa musibah agar diganti lebih baik. |
-| **HR. Muslim no. 2999** *(Shuhaib Ar-Rumi)* | *In ashabathu sarra-u syakara... wa in ashabathu dharra-u shabara* | Karakter unik mukmin: selalu beruntung saat senang (syukur) & susah (sabar). |
+| **HR. Bukhari no. 5640** *(Jalur Emas Az-Zuhri ➔ Urwah ➔ Aisyah r.a.)* | *Mā min mushībatin tushībul muslima illā kaffarallāhu bihā 'anhu, hattasy-syaukati yusyākuhā* | **Hadis pembuka Kitab Penyakit (*Kitab Al-Mardha*)**: Duri yang menusuk pun jadi kafarat dosa. |
+| **HR. Bukhari no. 1469 & 6470** *(Jalur Az-Zuhri ➔ Atha' ➔ Abu Sa'id r.a.)* | *Wa man yatashabbar yushabbirhullāh, wa mā u'thiya ahadun 'athā-an khairan wa awsa'a minash-shabr* | **Sabar adalah keahlian yang dilatih (*at-tashabbur*)** dan merupakan anugerah terluas bagi manusia. |
+| **HR. Bukhari no. 5641 & Muslim no. 2573** *(Abu Sa'id & Abu Hurairah)* | *Mā yushībul muslima min nashabin wa lā washābin... illā kaffarallāh...* | Merangkum 6 spektrum stres & lelah fisik/psikis sebagai pembersih noda dosa. |
+| **HR. Bukhari no. 1283 & Muslim no. 926** *(Anas bin Malik)* | *Innamash-shabru 'inda ash-shadmatil ula* | Tolok ukur nilai kesabaran tertinggi ada pada detik hentakan/benturan pertama. |
+| **HR. Muslim no. 918 & Ahmad** *(Ummu Salamah)* | *Allāhumma'-jurnī fī mushībatī wa akhlif lī khairan minhā* | Doa mustajab saat tertimpa musibah agar digantikan hal yang jauh lebih mulia. |
+| **HR. Muslim no. 2999** *(Shuhaib Ar-Rumi)* | *In ashabathu sarra-u syakara... wa in ashabathu dharra-u shabara* | Pola pikir mental juara orang beriman: beruntung saat senang (syukur) & susah (sabar). |
+| **HR. Tirmidzi no. 2396** *(Anas bin Malik)* | *Inna 'izhamal-jazā'i ma'a 'izhamil-balā'* | Besarnya pahala berbanding lurus dengan beratnya ujian hidup; tanda cinta Allah. |
 
 ---
 

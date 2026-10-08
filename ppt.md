@@ -191,27 +191,50 @@
 
 ---
 
-## SLIDE 10: MUTIARA HADIS 1 & 2
-### **PENGHAPUS DOSA & SABAR PADA BENTURAN PERTAMA**
+## SLIDE 10: HADIS EMAS JALUR AZ-ZUHRI (HR. BUKHARI)
+### **FONDAASI KITAB AL-MARDHA DALAM SHAHIH AL-BUKHARI**
 
-#### 1. Ujian Sebagai Penggugur Dosa *(HR. Bukhari no. 5641 & Muslim no. 2573)*
-> *"Tidaklah seorang muslim tertimpa keletihan, penyakit, kekhawatiran (*hamm*), kesedihan (*huzn*), gangguan, hingga duri yang menusuknya, melainkan Allah jadikan itu sebagai pelebur kesalahan-kesalahannya."*
-- **Takeaway:** Tak ada penderitaan yang sia-sia; setiap rasa sakit adalah pembersih noda dosa.
+#### A. Musibah & Duri Penghapus Dosa *(HR. Bukhari no. 5640)*
+> حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ **الزُّهْرِيِّ**، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا:  
+> «مَا مِنْ مُصِيبَةٍ تُصِيبُ الْمُسْلِمَ إِلَّا كَفَّرَ اللَّهُ بِهَا عَنْهُ، حَتَّى الشَّوْكَةِ يُشَاكُهَا»  
+> *"Tidak ada musibah yang menimpa seorang muslim melainkan Allah menghapus dosanya, bahkan sampai duri yang menusuknya."*
 
-#### 2. Sabar Hakiki pada Benturan Pertama *(HR. Bukhari no. 1283 & Muslim no. 926)*
-> *"Sesungguhnya kesabaran (yang bernilai agung) itu hanyalah pada benturan pertama (ash-shadmatul ula)."*
-- **Takeaway:** Nilai sabar diuji pada detik pertama saat kabar buruk tiba, bukan saat emosi telah reda.
+#### B. Seni Melatih Diri untuk Sabar (*At-Tashabbur*) *(HR. Bukhari no. 1469)*
+> عَنِ **ابْنِ شِهَابٍ الزُّهْرِيِّ**، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ أَبِي سَعِيدٍ الخُدْرِيِّ:  
+> «وَمَنْ يَتَصَبَّرْ يُصَبِّرْهُ اللَّهُ، وَمَا أُعْطِيَ أَحَدٌ عَطَاءً خَيْرًا وَأَوْسَعَ مِنَ الصَّبْرِ»  
+> *"Barangsiapa melatih dirinya bersabar, Allah kuatkan kesabarannya. Dan tidak ada pemberian yang lebih baik dan lebih lapang dari sabar."*
 
-> 💡 **Visual Cue:** Dua quote card elegan berdampingan dengan lambang kitab hadis shahih.
+**Siapa Imam Az-Zuhri?**
+- Tokoh Tabi'in agung yang ditunjuk Khalifah **Umar bin Abdul Aziz** memimpin kodifikasi resmi hadis (*tadwin al-hadits*).
+- Membawa sanad terkuat (*silsilah adz-dzahab*) dari keluarga inti Nabi saw.
+
+> 💡 **Visual Cue:** Bagan silsilah sanad emas (Abu Al-Yaman ➔ Syu'aib ➔ Az-Zuhri ➔ Urwah ➔ Aisyah) berdampingan dengan teks hadis.
 
 ---
 🗣️ **Naskah Presenter (Speaker Notes):**
-*"Sekarang kita masuk ke kajian Hadis Nabi saw. Hadis pertama riwayat Bukhari dan Muslim adalah kabar yang sangat melegakan: lelah fisik, overthinking, kesedihan, bahkan duri kecil yang menusuk jari kita, semuanya menjadi penggugur dosa! Namun, hadis kedua mengingatkan kita: sabar yang paling berbobot pahalanya adalah 'inda ash-shadmatil ula—pada hentakan pertama saat kabar buruk tiba. Menahan lisan agar tidak mencaci maki pada detik pertama itulah ujian iman yang sesungguhnya."*
+*"Rekan-rekan sekalian, jika kita meriset langsung ke kitab induk Shahih Al-Bukhari, hadis pembuka pada Kitab Al-Mardha adalah hadis nomor 5640 yang diriwayatkan melalui sanad emas Imam Ibnu Syihab Az-Zuhri dari Sayyidah Aisyah r.a. Beliau adalah ulama tabi'in agung yang diperintahkan Khalifah Umar bin Abdul Aziz untuk mengumpulkan hadis Nabi secara resmi. Hadis ini menegaskan: tertusuk duri kecil saja sudah menggugurkan dosa! Dan di hadis nomor 1469, Az-Zuhri meriwayatkan bahwa kesabaran adalah kemampuan yang bisa dilatih—'man yatashabbar yushabbirhullah'."*
 
 ---
 
-## SLIDE 11: MUTIARA HADIS 3 & 4
-### **DOA UMMU SALAMAH & MENTAL JUARA SEORANG MUKMIN**
+## SLIDE 11: MUTIARA HADIS PENGUAT LAINNYA
+### **BENTURAN PERTAMA & SPEKTRUM PENDERITAAN LENGKAP**
+
+1. **Sabar Sejati pada Benturan Pertama *(HR. Bukhari no. 1283 & Muslim no. 926)*:**  
+   *“Innamash-shabru 'inda ash-shadmatil ula”*  
+   *(Kesabaran bernilai puncak ada pada hentakan pertama saat kabar duka tiba, bukan setelah reda).*
+2. **6 Spektrum Penderitaan Manusia *(HR. Bukhari no. 5641 & Muslim no. 2573)*:**  
+   Mencakup kelelahan fisik (*nashab*), sakit menahun (*washab*), cemas masa depan (*hamm*), duka masa lalu (*huzn*), gangguan orang (*adza*), hingga stres dada sesak (*gham*).
+
+> 💡 **Visual Cue:** Dua kolom perbandingan: respons spontan manusia vs respons ideal seorang muslim yang terlatih.
+
+---
+🗣️ **Naskah Presenter (Speaker Notes):**
+*"Selain riwayat Az-Zuhri, Rasulullah saw. memberikan tolok ukur sabar yang hakiki dalam riwayat Bukhari nomor 1283: sabar yang paling berbobot pahalanya adalah pada benturan pertama saat berita duka datang. Dan pada hadis nomor 5641, Rasulullah merangkum seluruh jenis stres manusia—lelah kerja, cemas masa depan, sakit jasmani—semuanya diganjar ampunan dosa jika disikapi dengan sabar."*
+
+---
+
+## SLIDE 12: DOA UMMU SALAMAH & MENTALITAS PEMENANG
+### **RESPONS TERBAIK & POLA PIKIR UNGGUL SEORANG MUKMIN**
 
 #### 3. Doa Menghadapi Musibah *(HR. Muslim no. 918)*
 > اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي، وَأَخْلِفْ لِي خَيْرًا مِنْهَا
@@ -230,7 +253,7 @@
 
 ---
 
-## SLIDE 12: MEMBEDAKAN BALA', MUSIBAH, AZAB, & ISTIDRAJ
+## SLIDE 13: MEMBEDAKAN BALA', MUSIBAH, AZAB, & ISTIDRAJ
 ### **JANGAN SALAH MENILAI BENCANA!**
 
 | Kategori | Sasaran Utama | Tujuan Teologis | Contoh Nyata |
@@ -248,7 +271,7 @@
 
 ---
 
-## SLIDE 13: 4 TINGKATAN RESPON TERHADAP MUSIBAH
+## SLIDE 14: 4 TINGKATAN RESPON TERHADAP MUSIBAH
 ### **MAQAM MANUSIA MENURUT IBNU QAYYIM AL-JAUZIYYAH**
 
 ```
@@ -277,49 +300,68 @@
 
 ---
 
-## SLIDE 14: IMPLEMENTASI & KESEHATAN MENTAL (GEN-Z)
-### **MENGUBAH UJIAN MENJADI KEKUATAN RESILIENSI**
+## SLIDE 15: REFLEKSI BUKU PAI SMK ERLANGGA & ETOS VOKASI
+### **KORELASI 3 CABANG SABAR DENGAN DUNIA KEJURUAN**
 
-1. **Stop Victim Mentality, Start Growth Mindset:**  
-   Ubah kalimat: *"Kenapa harus aku?"* ➔ *"Apa hikmah yang ingin Allah ajarkan kepadaku?"*
-2. **First-Aid Spiritual (Pertolongan Pertama Emosi):**  
-   Saat kaget/gagal, ambil nafas dalam-dalam lalu lafalkan kalimat *Istirja'* dan doa Ummu Salamah.
-3. **Kombinasi Ikhtiar Nyata & Doa:**  
-   Sabar bukan pasrah buta! Belajar tekun, konsultasi jika butuh bantuan profesional, lalu serahkan hasil akhir kepada Allah.
-4. **Empati Sosial (*Takaful*):**  
-   Melihat teman yang tertimpa musibah bukan dihakimi, tapi dirangkul dan dibantu ekonominya/morilnya.
+Mengacu pada buku *PAI & Budi Pekerti SMK Kelas XII Kurikulum Merdeka (Erlangga)* karya Drs. H. Sadi & H. Nasikin:
+1. **Sabar dalam Ketaatan:**  
+   - *Di Sekolah/Industri:* Disiplin SOP, ketepatan waktu kerja, dan integritas profesional.
+2. **Sabar Menjauhi Kemaksiatan:**  
+   - *Di Lingkungan Kerja:* Menolak kecurangan, manipulasi data proyek, korupsi, dan pelanggaran K3.
+3. **Sabar Menghadapi Takdir Pahit / Musibah:**  
+   - *Dinamika Vokasi:* Ketabahan saat mesin rusak, produk gagal uji mutu, penolakan tempat PKL, atau kecelakaan kerja.
 
-> 💡 **Visual Cue:** Infografis 4 pilar tips praktis dengan visual modern bernuansa kesehatan mental islami.
+> 💡 **Visual Cue:** Skema 3 roda gigi industri (*gear*) yang saling mengunci mewakili ketaatan, pencegahan maksiat, dan ketabahan musibah.
 
 ---
 🗣️ **Naskah Presenter (Speaker Notes):**
-*"Bagaimana mengamalkannya di kehidupan kita sebagai pelajar modern? Pertama, buang victim mentality! Ganti overthinking dengan growth mindset. Kedua, jadikan istirja' sebagai first-aid spiritual saat menerima hasil ujian yang jelek atau ditolak beasiswa. Ketiga, tetap berikhtiar—sabar itu aktif, bukan pasif berdiam diri. Dan keempat, mari kita bangun empati: ketika ada sahabat yang berduka, hadirkan dukungan nyata."*
+*"Jika kita melihat referensi buku teks PAI SMK Kelas XII terbitan Erlangga, materi sabar ini sangat dikaitkan dengan profil pelajar kejuruan. Ada 3 cabang sabar: sabar dalam ketaatan beribadah dan disiplin kerja, sabar menahan diri dari kecurangan proyek atau manipulasi kerja, dan sabar menghadapi musibah takdir saat produk praktik kita gagal QC atau saat ditolak tempat magang. Sabar di sini adalah mental baja seorang profesional muda!"*
 
 ---
 
-## SLIDE 15: KESIMPULAN & REFLEKSI AKHIR
+## SLIDE 16: IMPLEMENTASI & KESEHATAN MENTAL SISWA SMK
+### **MENGUBAH UJIAN MENJADI KEKUATAN RESILIENSI**
+
+1. **Stop Victim Mentality, Start Growth Mindset:**  
+   Ubah kalimat: *"Kenapa harus aku yang gagal?"* ➔ *"Apa hikmah dan perbaikan sistemik yang Allah tunjukkan?"*
+2. **First-Aid Spiritual (Pertolongan Pertama Emosi):**  
+   Saat kaget/gagal, ambil nafas dalam-dalam lalu lafalkan kalimat *Istirja'* dan doa Ummu Salamah.
+3. **Kombinasi Ikhtiar Nyata (*At-Tashabbur*) & Doa:**  
+   Sesuai hadis Az-Zuhri, kesabaran adalah keahlian yang dilatih. Lakukan perbaikan teknis (*troubleshooting*), belajar lebih tekun, lalu bertawakal.
+4. **Empati Sosial (*Takaful Ijtima'i*):**  
+   Melihat kawan yang tertimpa musibah dirangkul dan dibantu, bukan dihakimi atau dirundung.
+
+> 💡 **Visual Cue:** Infografis 4 pilar tips praktis bernuansa resiliensi dan kesehatan mental modern.
+
+---
+🗣️ **Naskah Presenter (Speaker Notes):**
+*"Bagaimana mengamalkannya di kehidupan kita sebagai pelajar modern? Pertama, buang victim mentality! Ganti overthinking dengan growth mindset. Kedua, jadikan istirja' sebagai first-aid spiritual saat menerima hasil ujian yang jelek atau ditolak beasiswa. Ketiga, latih sabar aktif sesuai hadis riwayat Az-Zuhri—sabar itu otot yang harus dilatih. Dan keempat, mari kita bangun solidaritas: dukung kawan-kawan kita yang sedang tertimpa musibah."*
+
+---
+
+## SLIDE 17: KESIMPULAN & REFLEKSI AKHIR
 ### **PESAN INTI KAJIAN**
 
 > *"Ujian hidup bukanlah tanda bahwa Allah membencimu, melainkan cara Allah memanggilmu kembali ke dalam pelukan kasih sayang-Nya."*
 
 - **Q.S. Al-Baqarah: 155–156** adalah manual kehidupan tentang kepastian ujian dan rahasia lulus menghadapinya.
 - **Kalimat Istirja'** adalah benteng tauhid: menyadarkan kita bahwa kita milik Allah dan akan kembali kepada-Nya.
-- **Pahala terbesar** ada pada kesabaran di detik pertama dan ketulusan berhusnuzhan kepada takdir Allah.
+- **Hadis Bukhari (Az-Zuhri & Abu Sa'id):** Menjamin bahwa setiap duri yang menusuk bernilai ampunan dosa, dan kesabaran adalah anugerah terluas bagi manusia.
 
 ---
 🗣️ **Naskah Presenter (Speaker Notes):**
-*"Kesimpulan utama presentasi kami: Ujian bukanlah bukti kebencian Allah, melainkan instrumen untuk menggembleng kualitas iman kita. Di balik setiap kesedihan ada ampunan dosa, dan di balik kalimat Inna lillahi wa inna ilaihi raji'un terdapat ketenangan abadi. Semoga kita semua dimasukkan ke dalam golongan hamba-hamba-Nya yang sabar."*
+*"Kesimpulan utama presentasi kami: Ujian bukanlah bukti kebencian Allah, melainkan instrumen untuk menggembleng kualitas iman kita. Di balik setiap kepedihan ada kafarat dosa, dan di balik kalimat Inna lillahi wa inna ilaihi raji'un terdapat ketenangan sejati. Semoga Allah menganugerahkan hati yang tabah bagi kita semua."*
 
 ---
 
-## SLIDE 16: SESI TANYA JAWAB (Q&A) & PENUTUP
+## SLIDE 18: SESI TANYA JAWAB (Q&A) & PENUTUP
 ### **TERIMA KASIH ATAS PERHATIAN ANDA**
 
 > *“Sabar itu pahit pada awalnya, namun manis hasilnya melebihi madu.”*
 
 **Kritik, Saran, & Pertanyaan Dipersilakan:**
 - 🙋‍♂️ Silakan angkat tangan bagi rekan-rekan yang ingin berdiskusi.
-- 📖 Sumber Rujukan: *Tafsir Ibnu Katsir, Tafsir Al-Mishbah, Shahih Bukhari & Muslim.*
+- 📖 Sumber Rujukan: *Shahih Al-Bukhari (Jalur Az-Zuhri), Shahih Muslim, Tafsir Ibnu Katsir, Tafsir Al-Mishbah, Buku PAI SMK Erlangga.*
 
 **Wassalamu’alaikum Warahmatullahi Wabarakatuh.**
 

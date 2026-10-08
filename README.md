@@ -10,10 +10,10 @@ Repository ini berisi materi pembelajaran dan tugas lengkap mata pelajaran **Pen
 
 | Berkas | Deskripsi & Fungsi | Format |
 |:---|:---|:---:|
-| **`makalah.md`** | **Makalah Lengkap Berstandar Akademik Sekolah**: Dilengkapi Cover, Kata Pengantar, Daftar Isi, Bab I (Pendahuluan), Bab II (Pembahasan komprehensif: teks Arab, transliterasi, terjemahan Kemenag, analisis mufradat perkata, tabel tajwid 20 baris, asbabun nuzul & munasabah, tafsir Ibnu Katsir & Al-Mishbah, kajian 5 hadis shahih dengan takhrij, matriks perbandingan bala' vs azab vs istidraj, 4 tingkatan sikap menghadapi musibah, dan implementasi kesehatan mental modern), Bab III (Penutup), serta Daftar Pustaka. | Markdown (`.md`) |
-| **`ppt.md`** | **Slide Presentasi Siap Pakai (16 Slide)**: Terstruktur rapi dengan pointer visual, pembagian poin padat, petunjuk visual (Visual Cues), dan **Naskah Presenter (Speaker Notes)** lengkap kata demi kata untuk panduan berbicara langsung di depan kelas tanpa gugup. | Marp / Markdown Slide |
-| **`tanya_jawab_dan_cheatsheet.md`** | **Bank Tanya Jawab Kritis & Cheatsheet Ujian**: Berisi 6 pertanyaan kritis (*killer questions*) yang sering dilontarkan oleh Guru PAI atau audiens di sesi tanya jawab beserta jawaban ilmiah berdalil, serta rangkuman cepat rumus tajwid, 5 macam ujian, 3 hadiah sabar, dan takhrij hadis untuk persiapan ujian lisan. | Markdown (`.md`) |
-| **`README.md`** | Dokumentasi dan petunjuk penggunaan berkas. | Markdown (`.md`) |
+| **`makalah.md`** | **Makalah Lengkap Berstandar Akademik Sekolah**: Dilengkapi Cover, Kata Pengantar, Daftar Isi, Bab I (Pendahuluan), Bab II (Pembahasan komprehensif: teks Arab, transliterasi, terjemahan Kemenag, analisis mufradat perkata, tabel tajwid 20 baris, asbabun nuzul & munasabah, tafsir Ibnu Katsir & Al-Mishbah, **kajian hadis emas jalur Imam Ibnu Syihab Az-Zuhri dalam Shahih Bukhari no. 5640 & no. 1469/6470**, 5 hadis shahih lainnya, matriks perbandingan bala' vs azab vs istidraj, 4 tingkatan sikap menghadapi musibah Ibnu Qayyim, **tinjauan komparatif Buku Teks PAI SMK Erlangga (Kurikulum Merdeka)**, dan implementasi kesehatan mental modern siswa SMK), Bab III (Penutup), serta Daftar Pustaka. | Markdown (`.md`) |
+| **`ppt.md`** | **Slide Presentasi Siap Pakai (18 Slide Deck)**: Terstruktur rapi dengan pointer visual, pembagian poin padat, petunjuk visual (Visual Cues), **slide khusus Hadis Az-Zuhri & Refleksi Buku SMK Erlangga**, dan **Naskah Presenter (Speaker Notes)** lengkap kata demi kata untuk panduan berbicara langsung di depan kelas tanpa grogi. | Marp / Markdown Slide |
+| **`tanya_jawab_dan_cheatsheet.md`** | **Bank Tanya Jawab Kritis & Cheatsheet Ujian**: Berisi 8 pertanyaan kritis (*killer questions*) seputar hadis Az-Zuhri, kurikulum Erlangga, dan teologi musibah, serta rangkuman cepat rumus tajwid, 5 macam ujian, 3 hadiah sabar, dan takhrij lengkap sanad hadis. | Markdown (`.md`) |
+| **`README.md`** | Dokumentasi dan petunjuk komprehensif penggunaan berkas. | Markdown (`.md`) |
 
 ---
 
@@ -38,12 +38,13 @@ Repository ini berisi materi pembelajaran dan tugas lengkap mata pelajaran **Pen
 
 ## 📚 Sumber Rujukan Utama
 1. *Mushaf Al-Qur'an Standar Indonesia*, Lajnah Pentashihan Mushaf Al-Qur'an, Kemenag RI (2019).
-2. *Shahih Al-Bukhari*, Imam Al-Bukhari (No. 1283, 5641, 5642).
+2. *Shahih Al-Bukhari*, Imam Al-Bukhari (No. 1283, 1469, 5640, 5641, 6470 - Jalur Sanad Imam Az-Zuhri).
 3. *Shahih Muslim*, Imam Muslim (No. 918, 926, 2573, 2999).
 4. *Tafsir Al-Qur'an Al-'Azhim*, Ibnu Katsir Ad-Dimasyqi.
 5. *Tafsir Al-Mishbah*, Prof. Dr. M. Quraish Shihab.
 6. *Madarijus Salikin*, Imam Ibnu Qayyim Al-Jauziyyah.
 7. *Taisir Al-Karim Ar-Rahman fi Tafsir Kalam Al-Mannan*, Syaikh Abdurrahman As-Sa'di.
-
+8. *Fathul Bari Syarh Shahih Al-Bukhari*, Ibnu Hajar Al-Asqalani.
+9. *Pendidikan Agama Islam dan Budi Pekerti untuk SMK/MAK Kelas XII (Kurikulum Merdeka)*, Drs. H. Sadi, M.Pd.I. & Drs. H. Nasikin, M.Pd., Penerbit Erlangga (2023).
 ---
 *Dibuat untuk keperluan akademik mata pelajaran Pendidikan Agama Islam dan Budi Pekerti.*

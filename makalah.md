@@ -52,15 +52,18 @@ Penulis menyadari bahwa makalah ini masih jauh dari kesempurnaan. Oleh karena it
     - 2.5.1 Ragam Ujian Kehidupan (Analisis Ayat 155)
     - 2.5.2 Hakikat Kalimat Istirja' dan Makna Tauhid (Analisis Ayat 156)
     - 2.5.3 Keberkahan, Rahmat, dan Petunjuk (Munasabah Ayat 157)
-  - 2.6 Kajian Hadis-Hadis Shahih tentang Musibah
-    - 2.6.1 Hadis Musibah sebagai Penggugur Dosa (HR. Bukhari dan Muslim)
-    - 2.6.2 Hadis Hakikat Sabar pada Benturan Pertama (HR. Bukhari dan Muslim)
-    - 2.6.3 Hadis Doa saat Tertimpa Musibah (HR. Muslim - Ummu Salamah)
-    - 2.6.4 Hadis Karakteristik Mengagumkan Orang Beriman (HR. Muslim)
-    - 2.6.5 Hadis Besarnya Ujian Tanda Kasih Sayang Allah (HR. Tirmidzi)
+  - 2.6 Kajian Hadis-Hadis Shahih tentang Musibah dan Sabar
+    - 2.6.1 Riwayat Emas Jalur Sanad Az-Zuhri dalam Shahih Al-Bukhari (No. 5640 & No. 1469/6470)
+    - 2.6.2 Profil Intelektual Imam Ibnu Syihab Az-Zuhri dan Urgensi Sanad
+    - 2.6.3 Hadis Spektrum Penderitaan Penghapus Dosa (HR. Bukhari No. 5641 & Muslim No. 2573)
+    - 2.6.4 Hadis Hakikat Sabar pada Benturan Pertama (HR. Bukhari No. 1283 & Muslim No. 926)
+    - 2.6.5 Hadis Doa saat Tertimpa Musibah (HR. Muslim No. 918 - Ummu Salamah)
+    - 2.6.6 Hadis Mentalitas Pemenang Orang Beriman (HR. Muslim No. 2999)
+    - 2.6.7 Hadis Besarnya Ujian Tanda Kasih Sayang Allah (HR. Tirmidzi No. 2396)
   - 2.7 Distingsi Konseptual: Musibah, Ujian (*Bala'*), Azab, dan Istidraj
-  - 2.8 Tingkatan Sikap Manusia dalam Menghadapi Musibah
-  - 2.9 Implementasi Praktis dan Resiliensi Mental di Era Modern
+  - 2.8 Tingkatan Sikap Manusia dalam Menghadapi Musibah (Ibnu Qayyim)
+  - 2.9 Tinjauan Komparatif: Buku Teks PAI SMK Kelas XII Kurikulum Merdeka (Penerbit Erlangga) vs Riset Sumber Primer
+  - 2.10 Implementasi Praktis dan Resiliensi Mental Siswa SMK di Era Modern
 - **BAB III: PENUTUP**
   - 3.1 Kesimpulan
   - 3.2 Saran dan Rekomendasi
@@ -230,14 +233,53 @@ Kalimat **إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاج
 
 Prof. Dr. M. Quraish Shihab dalam *Tafsir Al-Mishbah* menjelaskan:
 > *"Ucapan ini adalah benteng pertahanan psikologis seorang mukmin. Dengan menyadari bahwa dirinya milik Allah, ia terbebas dari arogansi kepemilikan. Dengan menyadari bahwa ia akan kembali kepada Allah, ia memperoleh ketenangan bahwa segala kepedihan akan berakhir dan diganti dengan kemuliaan abadi."*
+### 2.6 Kajian Hadis-Hadis Shahih tentang Musibah dan Sabar
+
+Al-Qur'an dan Sunnah Rasulullah *shallallahu 'alaihi wasallam* saling menjelaskan dan menguatkan (*al-Qur'an ahwaj ila as-sunnah minas sunnah ilal Qur'an*). Berikut adalah hadis-hadis shahih kunci, diawali dengan riwayat emas jalur Imam Ibnu Syihab Az-Zuhri dalam *Shahih Al-Bukhari*:
+
+#### 2.6.1 Riwayat Emas Jalur Sanad Az-Zuhri dalam Shahih Al-Bukhari (No. 5640 & No. 1469/6470)
+
+Dalam *Shahih Al-Bukhari*, hadis pembuka pada **Kitab Al-Mardha** (Kitab tentang Penyakit dan Penebusan Dosa, Bab *Ma Jaa'a fi Kaffarati Al-Maradh*) diriwayatkan secara khusus melalui jalur periwayatan emas (*sanad 'ali*) yang berporos pada **Imam Ibnu Syihab Az-Zuhri**:
+
+**A. Teks Hadis Musibah Penghapus Dosa Jalur Az-Zuhri (HR. Bukhari No. 5640):**
+حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ: أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، زَوْجَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَتْ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:
+«مَا مِنْ مُصِيبَةٍ تُصِيبُ الْمُسْلِمَ إِلَّا كَفَّرَ اللَّهُ بِهَا عَنْهُ، حَتَّى الشَّوْكَةِ يُشَاكُهَا»
+
+**Transliterasi Sanad & Matan:**
+*Haddatsanā Abul-Yamān, akhbaranā Syu'aib, 'aniz-Zuhrī, qāla: akhbaranī 'Urwah bin Az-Zubair, anna 'Ā'isyata radhiyallāhu 'anhā, zawjan-Nabiyyi shallallāhu 'alaihi wasallam, qālat: qāla Rasūlullāhi shallallāhu 'alaihi wasallam: "Mā min mushībatin tushībul-muslima illā kaffarallāhu bihā 'anhu, hattasy-syaukati yusyākuhā."*
+
+**Terjemahan:**
+> Telah menceritakan kepada kami Abu Al-Yaman (Al-Hakam bin Nafi'), telah mengabarkan kepada kami Syu'aib (bin Abi Hamzah), dari **Az-Zuhri**, ia berkata: telah mengabarkan kepadaku 'Urwah bin Az-Zubair, bahwa 'Aisyah *radhiyallahu 'anha* (istri Nabi *shallallahu 'alaihi wasallam*) berkata: Rasulullah *shallallahu 'alaihi wasallam* bersabda:
+> *"Tidak ada satu musibah pun yang menimpa seorang muslim melainkan Allah menghapuskan (dosa) darinya lantaran musibah itu, bahkan sampai duri yang menusuknya sekalipun."* (HR. Al-Bukhari, no. 5640).
 
 ---
 
-### 2.6 Kajian Hadis-Hadis Shahih tentang Musibah
+**B. Teks Hadis Melatih Kesabaran Jalur Az-Zuhri (HR. Bukhari No. 1469 & No. 6470):**
+Selain hadis tentang kafarat musibah, Imam Az-Zuhri juga menjadi perawi kunci hadis fundamental tentang seni melatih jiwa untuk bersabar (*at-tashabbur*):
 
-Al-Qur'an dan Hadis saling melengkapi (*bayan wa tafshil*). Berikut adalah hadis-hadis shahih yang menjadi rujukan otoritatif dalam memahami musibah dan ujian:
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ (الزُّهْرِيِّ)، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ أَبِي سَعِيدٍ الخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ:
+«...وَمَنْ يَتَصَبَّرْ يُصَبِّرْهُ اللَّهُ، وَمَا أُعْطِيَ أَحَدٌ عَطَاءً خَيْرًا وَأَوْسَعَ مِنَ الصَّبْرِ»
 
-#### 2.6.1 Hadis 1: Musibah sebagai Penghapus Dosa
+**Terjemahan:**
+> "...Dan barangsiapa yang berusaha melatih dirinya untuk bersabar (*yatashabbar*), maka Allah akan menganugerahkan kekuatan kesabaran kepadanya. Dan tidaklah seseorang dianugerahi suatu pemberian yang lebih baik dan lebih lapang daripada kesabaran." (HR. Al-Bukhari, no. 1469 dalam *Kitab Az-Zakat* dan no. 6470 dalam *Kitab Ar-Riqaq*).
+
+---
+
+#### 2.6.2 Profil Intelektual Imam Ibnu Syihab Az-Zuhri dan Urgensi Sanad
+Meneliti hadis secara kritis menuntut pemahaman terhadap integritas perawinya (*rijalul hadits*). Siapakah sosok **Az-Zuhri** yang menjadi sanad utama dalam hadis musibah Bukhari tersebut?
+
+1. **Identitas dan Garis Keturunan:**
+   Nama lengkap beliau adalah **Abu Bakar Muhammad bin Muslim bin 'Ubaidullah bin 'Abdillah bin Syihab bin 'Abdillah bin Al-Harits bin Zuhrah Al-Qurasyi Al-Madani** (lahir sekitar tahun 50 H – wafat 124 H di Syam). Beliau bernasab luhur ke Bani Zuhrah, klan mulia dari ibunda Nabi, Sayyidah Aminah.
+2. **Pelopor Kodifikasi Hadis Resmi (*Tadwin al-Hadits*):**
+   Imam Az-Zuhri adalah ulama agung generasi Tabi'in yang ditunjuk langsung oleh Khalifah agung **Umar bin Abdul Aziz (w. 101 H)** untuk memimpin proyek historis pengumpulan dan penulisan hadis secara resmi demi menjaga kemurnian sunnah Nabi dari kepunahan dan pemalsuan.
+3. **Mata Rantai Sanad Emas (*Silsilah adz-Dzahab*):**
+   Jalur periwayatan: *Abu Al-Yaman ➔ Syu'aib ➔ Az-Zuhri ➔ 'Urwah bin Az-Zubair ➔ Ummul Mukminin 'Aisyah r.a.* adalah salah satu rantai sanad paling shahih di muka bumi. 'Urwah adalah keponakan kandung 'Aisyah yang tinggal bersamanya, sehingga periwayatan mengenai sabda Nabi di lingkungan keluarga memiliki tingkat akurasi dan kredibilitas historis tertinggi.
+4. **Pelajaran Teknis Hadis Az-Zuhri:**
+   Penggunaan frasa *“hattasy-syaukati yusyakuha”* (hingga duri yang menusuknya) dalam riwayat Az-Zuhri menunjukkan konsep *mubalaghah fit-taqlil* (penekanan pada kepedihan terkecil). Jika tertusuk duri tanaman saja sudah cukup menjadi sarana penghapus dosa, maka beban kehilangan harta, penyakit berat, dan kegagalan akademik yang jauh lebih pedih memiliki nilai kafarat dan pengangkatan derajat yang jauh berlipat ganda di hadapan Allah *Ta'ala*.
+
+---
+
+#### 2.6.3 Hadis Spektrum Penderitaan Penghapus Dosa (HR. Bukhari No. 5641 & Muslim No. 2573)
 **Teks Hadis:**
 عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلاَ وَصَبٍ وَلاَ هَمٍّ وَلاَ حُزْنٍ وَلاَ أَذًى وَلاَ غَمٍّ، حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلَّا كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ»
 
@@ -259,12 +301,12 @@ Semua ini, jika dihadapi dengan ikhlas, bertransformasi menjadi sarana pembersih
 
 ---
 
-#### 2.6.2 Hadis 2: Sabar Sejati pada Benturan Pertama
+#### 2.6.4 Hadis Sabar Sejati pada Benturan Pertama (HR. Bukhari No. 1283 & Muslim No. 926)
 **Teks Hadis:**
 عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: مَرَّ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِامْرَأَةٍ تَبْكِي عِنْدَ قَبْرٍ، فَقَالَ: «اتَّقِي اللَّهَ وَاصْبِرِي»، قَالَتْ: إِلَيْكَ عَنِّي، فَإِنَّكَ لَمْ تُصَبْ بِمُصِيبَتِي، وَلَمْ تَعْرِفْهُ، فَقِيلَ لَهَا: إِنَّهُ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَتَتْ بَابَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَلَمْ تَجِدْ عِنْدَهُ بَوَّابِينَ، فَقَالَتْ: لَمْ أَعْرِفْكَ، فَقَالَ: «إِنَّمَا الصَّبْرُ عِنْدَ الصَّدْمَةِ الأُولَى»
 
 **Takhrij Hadis:**
-Diriwayatkan oleh Imam Al-Bukhari (*Shahih Al-Bukhari*, No. 1283) dan Imam Muslim (*Shahih Muslim*, No. 926).
+Diriwayatkan oleh Imam Al-Bukhari (*Shahih Al-Bukhari*, Kitab Al-Jana'iz, No. 1283) dan Imam Muslim (*Shahih Muslim*, No. 926).
 
 **Terjemahan:**
 > Dari Anas bin Malik *radhiyallahu 'anhu*, ia berkata: Nabi *shallallahu 'alaihi wasallam* pernah melewati seorang wanita yang sedang menangis di dekat kuburan (anaknya). Beliau bersabda: *"Bertakwalah kepada Allah dan bersabarlah!"* Wanita itu berkata (tanpa menoleh): *"Menjauhlah dariku, engkau tidak merasakan musibah seperti yang menimpaku!"* Wanita itu tidak tahu bahwa beliau adalah Nabi. Ketika diberitahukan kepadanya bahwa orang tadi adalah Nabi *shallallahu 'alaihi wasallam*, ia mendatangi pintu rumah Nabi dan berkata: *"Tadi aku tidak mengenalmu."* Maka Rasulullah *shallallahu 'alaihi wasallam* bersabda:
@@ -275,12 +317,12 @@ Hakikat kesabaran diuji bukan berminggu-minggu setelah peristiwa terjadi saat em
 
 ---
 
-#### 2.6.3 Hadis 3: Doa Mustajab dan Ganti Terbaik atas Musibah
+#### 2.6.5 Hadis Doa Mustajab dan Ganti Terbaik atas Musibah (HR. Muslim No. 918 & Ahmad)
 **Teks Hadis:**
 عَنْ أُمِّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَا مِنْ عَبْدٍ تُصِيبُهُ مُصِيبَةٌ، فَيَقُولُ: إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ، اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي، وَأَخْلِفْ لِي خَيْرًا مِنْهَا، إِلَّا أَجَرَهُ اللَّهُ فِي مُصِيبَتِهِ، وَأَخْلَفَ لَهُ خَيْرًا مِنْهَا»
 
 **Takhrij Hadis:**
-Diriwayatkan oleh Imam Muslim dalam *Shahih Muslim* (Kitab Al-Jana'iz, No. 918).
+Diriwayatkan oleh Imam Muslim dalam *Shahih Muslim* (Kitab Al-Jana'iz, No. 918) dan Imam Ahmad dalam *Musnad Ahmad* (4/27).
 
 **Terjemahan:**
 > Dari Ummu Salamah *radhiyallahu 'anha*, ia berkata: Aku mendengar Rasulullah *shallallahu 'alaihi wasallam* bersabda:
@@ -291,7 +333,7 @@ Ummu Salamah membuktikan kebenaran hadis ini. Ketika suaminya tercinta, Abu Sala
 
 ---
 
-#### 2.6.4 Hadis 4: Keajaiban Urusan Orang Beriman
+#### 2.6.6 Hadis Karakteristik Mengagumkan Orang Beriman (HR. Muslim No. 2999)
 **Teks Hadis:**
 عَنْ صُهَيْبٍ الرُّومِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «عَجَبًا لِأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ، وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِنِ؛ إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ»
 
@@ -307,7 +349,7 @@ Seorang mukmin memiliki mekanisme psikospiritual yang kebal terhadap keputusasaa
 
 ---
 
-#### 2.6.5 Hadis 5: Besarnya Pahala Berbanding Lurus dengan Beratnya Ujian
+#### 2.6.7 Hadis Besarnya Pahala Berbanding Lurus dengan Beratnya Ujian (HR. Tirmidzi No. 2396)
 **Teks Hadis:**
 عَنْ أَنَسٍ رَضِيَ اللَّهُ عَنْهُ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِنَّ عِظَمَ الجَزَاءِ مَعَ عِظَمِ البَلاَءِ، وَإِنَّ اللَّهَ إِذَا أَحَبَّ قَوْمًا ابْتَلاَهُمْ، فَمَنْ رَضِيَ فَلَهُ الرِّضَا، وَمَنْ سَخِطَ فَلَهُ السَّخَطُ»
 
@@ -369,20 +411,52 @@ Imam Ibnu Qayyim Al-Jauziyyah dalam kitabnya *Madarijus Salikin* membagi sikap m
 
 ---
 
-### 2.9 Implementasi Praktis dan Resiliensi Mental di Era Modern
+### 2.9 Tinjauan Komparatif: Buku Teks PAI SMK Kelas XII Kurikulum Merdeka (Penerbit Erlangga) vs Riset Sumber Primer
 
-Konsep musibah dalam Q.S. Al-Baqarah/2: 155–156 dan hadis-hadis Nabi sangat relevan dengan teori psikologi modern tentang **Resiliensi (Daya Lenting Jiwa)** dan **Cognitive Reframing (Pembingkaian Ulang Kognitif)**.
+Dalam kurikulum pendidikan vokasi (SMK/MAK) saat ini, buku teks utama yang banyak dijadikan pedoman pembelajaran di sekolah antara lain adalah buku **Pendidikan Agama Islam dan Budi Pekerti untuk SMK/MAK Kelas XII Kurikulum Merdeka Terbitan Penerbit Erlangga** (karya Drs. H. Sadi, M.Pd.I. & Drs. H. Nasikin, M.Pd.). 
 
-Berikut adalah langkah konkret implementasinya dalam kehidupan sehari-hari siswa dan masyarakat:
-1. **Mengucapkan dan Menghayati Istirja' saat Benturan Pertama:**
-   Ketika menerima berita duka, kegagalan seleksi masuk perguruan tinggi, kekalahan lomba, atau kehilangan barang, segera redam gejolak amarah dengan mengucap *Inna lillahi wa inna ilaihi raji'un*.
+Sebagai bagian dari riset ilmiah mandiri yang melampaui sekadar menyalin isi buku teks sekolah, penting untuk membandingkan konstruksi kurikulum buku Erlangga tersebut dengan hasil riset literatur Islam primer:
+
+#### A. Peta Materi Buku Teks Erlangga (Bab 1: Sabar dalam Menghadapi Musibah dan Ujian)
+1. **Capaian Pembelajaran (CP) Elemen Al-Qur'an dan Hadis:**  
+   Menargetkan peserta didik mampu membaca dengan tartil, menghafal, menganalisis hukum tajwid dan kosa kata, serta menyajikan keterkaitan antara Q.S. Al-Baqarah/2: 155–156 dan Q.S. Ibrahim/14: 9 dengan hadis tentang musibah.
+2. **Tiga Klasifikasi Sabar yang Ditekankan:**  
+   Buku Erlangga membagi kesabaran ke dalam tiga pilar klasik:
+   - *Sabar dalam ketaatan kepada Allah* (istiqamah menjalankan perintah ibadah meski terasa berat).
+   - *Sabar dalam menjauhi kemaksiatan* (menahan hawa nafsu dan godaan lingkungan pergaulan).
+   - *Sabar dalam menghadapi takdir/musibah yang pahit* (menerima ketetapan qadha dan qadar).
+3. **Kontekstualisasi Khusus Dunia SMK / Vokasi:**  
+   Buku teks Erlangga secara cermat menghubungkan nilai kesabaran dengan dunia kerja kejuruan, seperti:
+   - Ketabahan saat mengalami kegagalan uji kompetensi keahlian (UKK).
+   - Resiliensi saat menghadapi tekanan jam kerja, target produksi, dan disiplin tinggi pada Praktik Kerja Lapangan (PKL) di dunia industri.
+   - Kesabaran mematuhi prosedur keselamatan kerja (K3) untuk memitigasi musibah kecelakaan kerja.
+
+#### B. Nilai Tambah Melalui Riset Sumber Primer (*Primary Sources Advantage*)
+Meskipun buku teks Erlangga menyajikan rangkuman pedagogis yang sangat sistematis dan mudah dicerna siswa, kajian mandiri berbasis riset langsung ke kitab-kitab primer memberikan keunggulan komparatif yang signifikan:
+1. **Kekayaan Analisis Sanad Rijalul Hadits:**  
+   Buku teks sekolah umumnya hanya mencantumkan matan dan perawi akhir (misalnya: "HR. Bukhari"). Dengan riset primer, kita mampu melacak silsilah emas periwayatan **Imam Ibnu Syihab Az-Zuhri** (Bukhari No. 5640 dan 1469), memahami konteks historis kodifikasi hadis era Umar bin Abdul Aziz, serta menelusuri metodologi penempatan bab (*tarjamah al-bab*) oleh Imam Bukhari.
+2. **Komparasi Ragam Madzhab Tafsir:**  
+   Buku paket sekolah cenderung menyajikan terjemahan harfiah standar Kemenag. Melalui riset primer, kita dapat mengintegrasikan tinjauan linguistik klasik dari *Tafsir Ibnu Katsir*, pendekatan tafsir sosial-kemasyarakatan dari *Tafsir Al-Mishbah* (Prof. Quraish Shihab), hingga telaah derajat spiritual kalbu dari *Madarijus Salikin* (Ibnu Qayyim Al-Jauziyyah).
+3. **Diferensiasi Tajwid Lanjutan:**  
+   Riset mendalam menghasilkan tabel analisis tajwid 20 baris yang mendetail (mencakup perbedaan *tarqiq* lam jalalah, variasi *mad 'aridh lissukun*, hingga derajat tebal/tipisnya *ikhfa'* pada makhraj huruf *Qaf* vs *Fa'*), yang sering kali disederhanakan dalam buku paket.
+
+---
+
+### 2.10 Implementasi Praktis dan Resiliensi Mental Siswa SMK di Era Modern
+
+Konsep musibah dalam Q.S. Al-Baqarah/2: 155–156 dan hadis-hadis riwayat Bukhari (termasuk riwayat Az-Zuhri) sangat relevan dengan teori psikologi modern tentang **Resiliensi (Daya Lenting Jiwa)** dan **Cognitive Reframing (Pembingkaian Ulang Kognitif)**.
+
+Bagi peserta didik SMK yang dipersiapkan memasuki dinamika dunia industri yang kompetitif, berikut implementasi konkretnya:
+1. **Mengucapkan dan Menghayati Istirja' saat Benturan Pertama (*Ash-Shadmatul Ula*):**
+   Ketika menerima kegagalan—seperti alat praktik yang rusak, produk gagal lolos *Quality Control* (QC), penolakan magang industri, atau kegagalan seleksi masuk perguruan tinggi—segera redam kepanikan emosional dengan mengucap *Inna lillahi wa inna ilaihi raji'un*.
 2. **Positive Reframing (Husnuzhan kepada Allah):**
-   Mengubah narasi mental dari *"Mengapa harus aku yang tertimpa ini?"* (*victim mentality*) menjadi *"Allah sedang mendidik mentalku dan menghapus dosa-dosaku agar aku siap menerima amanah yang lebih besar"* (*growth mindset*).
-3. **Mengintegrasikan Ikhtiar Medis/Rasional dan Tawakal:**
-   Sabar bukan sikap pasif (*pasrah fatalistik*). Jika sakit, sabar diwujudkan dengan berobat ke dokter seraya berdoa. Jika menghadapi kesulitan ekonomi atau pelajaran, sabar diwujudkan dengan bekerja keras, belajar lebih tekun, lalu bertawakal kepada Allah.
-4. **Membangun Solidaritas Sosial (*Takaful Ijtima'i*):**
-   Ujian kelaparan dan kekurangan harta menuntut orang yang berkecukupan untuk turun tangan menyalurkan sedekah, zakat, dan bantuan sosial, sehingga tercipta ketahanan masyarakat yang solid.
-
+   Mengubah narasi mental dari *"Mengapa nasibku seburuk ini?"* (*victim mentality*) menjadi *"Allah sedang melatih integritas mentalku dan menghapus kekhilafanku agar aku memiliki mental baja seorang profesional"* (*growth mindset*).
+3. **Melatih Diri untuk Sabar Aktif (*At-Tashabbur* Sesuai Hadis Az-Zuhri):**
+   Sesuai hadis riwayat Az-Zuhri (*wa man yatashabbar yushabbirhullah*), sabar bukanlah bakat pasif yang datang tiba-tiba, melainkan **otot mental yang harus dilatih setiap hari**. Jika menghadapi kesulitan materi pelajaran produktif kejuruan, wujud sabar adalah menambah jam belajar, berdiskusi dengan mentor/guru, dan tidak menyerah.
+4. **Mengintegrasikan Ikhtiar Rasional dan Tawakal:**
+   Sabar bukan sikap pasif (*pasrah fatalistik*). Jika sakit, sabar diwujudkan dengan berobat secara medis seraya berdoa. Jika mesin kerja mengalami kendala, sabar diwujudkan dengan menganalisis *troubleshooting* secara sistematis, lalu bertawakal kepada Allah.
+5. **Membangun Solidaritas Sosial (*Takaful Ijtima'i*):**
+   Ujian kelaparan dan kekurangan harta menuntut sesama siswa untuk saling mendukung. Menumbuhkan budaya gotong royong dan saling menguatkan ketika ada rekan sekelas yang mengalami musibah ekonomi atau duka cita keluarga.
 ---
 
 # BAB III: PENUTUP
@@ -412,4 +486,7 @@ Berdasarkan pemaparan mendalam pada bab-bab sebelumnya, dapat disimpulkan bahwa:
 6. **As-Sa'di, Abdurrahman bin Nashir.** (2000). *Taisir Al-Karim Ar-Rahman fi Tafsir Kalam Al-Mannan*. Beirut: Mu'assasah Ar-Risalah.
 7. **Ibnu Qayyim Al-Jauziyyah.** (1996). *Madarijus Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*. Beirut: Dar Al-Kutub Al-'Ilmiyyah.
 8. **An-Nawawi, Muhyiddin Yahya bin Syaraf.** (2010). *Riyadhus Shalihin min Kalami Sayyidil Mursalin*. Tahqiq: Syaikh Syu'aib Al-Arna'uth. Beirut: Mu'assasah Ar-Risalah.
-9. **Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi.** (2021). *Buku Panduan Guru Pendidikan Agama Islam dan Budi Pekerti SMA/SMK Kelas XI*. Jakarta: Pusat Kurikulum dan Perbukuan.
+9. **Al-Asqalani, Ahmad bin Ali bin Hajar.** (2001). *Fathul Bari Syarh Shahih Al-Bukhari*. Kairo: Darul Hadits.
+10. **Al-Mizzi, Jamaluddin Abu Al-Hajjaj Yusuf.** (1980). *Tahdzib Al-Kamal fi Asma' Ar-Rijal*. Beirut: Mu'assasah Ar-Risalah.
+11. **Sadi, H. & Nasikin, H.** (2023). *Pendidikan Agama Islam dan Budi Pekerti untuk SMK/MAK Kelas XII (Kurikulum Merdeka)*. Jakarta: Penerbit Erlangga.
+12. **Chozin, Rohmat & Untoro.** (2022). *Pendidikan Agama Islam dan Budi Pekerti untuk SMA/SMK/MA Kelas XII*. Jakarta: Pusat Perbukuan, Kemendikbudristek.
